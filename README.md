@@ -1,0 +1,1 @@
+This is Ariels first git project!
